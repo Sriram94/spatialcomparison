@@ -1,7 +1,8 @@
 # spatialcomparison
 Open source implementation of algorithms that compare spatial patterns. 
 
-The source repository is present in this link: https://github.com/colinr23/spatialcompare
+The source repository is present in this link: https://github.com/colinr23/spatialcompare.
+
 Please refer to this vignette for more details on the project: https://github.com/colinr23/spatialcompare/blob/master/vignettes/spatialcompare-vignette.pdf
 
 
